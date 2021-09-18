@@ -3,6 +3,8 @@ from datetime import datetime, timedelta
 from geopy.geocoders import Nominatim
 import decouple
 
+decouple.
+
 MY_EMAIL = decouple.config("MY_EMAIL")
 PASSWORD = decouple.config("PASSWORD")
 N = 100
