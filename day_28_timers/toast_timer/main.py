@@ -68,7 +68,7 @@ def scale_used(value):
     print(value)
     global minutes
     minutes = int(value)
-scale = Scale(from_=10, to=5, command=scale_used)
+scale = Scale(from_=10, to=1, command=scale_used)
 scale.grid(row=2, column=1)
 
 window.mainloop()

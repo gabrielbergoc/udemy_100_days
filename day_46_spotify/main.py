@@ -125,7 +125,7 @@ def main():
     except requests.exceptions.HTTPError as e:
         raise e
 
-    # check to see if items were added
+    # check to see if items were added+
     # print(sp.playlist_items(playlist_id))
 
 

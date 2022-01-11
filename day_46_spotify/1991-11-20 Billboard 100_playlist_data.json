@@ -1,0 +1,39 @@
+{
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6SqDS5rMkLPwDVsWceTZMj"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/6SqDS5rMkLPwDVsWceTZMj",
+    "id": "6SqDS5rMkLPwDVsWceTZMj",
+    "images": [],
+    "name": "1991-11-20 Billboard 100",
+    "owner": {
+        "display_name": "Gabriel Bergoc",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/gabrielsbach"
+        },
+        "href": "https://api.spotify.com/v1/users/gabrielsbach",
+        "id": "gabrielsbach",
+        "type": "user",
+        "uri": "spotify:user:gabrielsbach"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MSwwNDA1OWIwZWMxYWIxMTk4YmJiMWE2MjI4OWRkYjhlOWU2MjQzMGI2",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6SqDS5rMkLPwDVsWceTZMj/tracks",
+        "items": [],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6SqDS5rMkLPwDVsWceTZMj"
+}

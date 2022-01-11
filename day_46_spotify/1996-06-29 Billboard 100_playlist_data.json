@@ -1,0 +1,39 @@
+{
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6DD39Nged2wPnWjbM50Slf"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/6DD39Nged2wPnWjbM50Slf",
+    "id": "6DD39Nged2wPnWjbM50Slf",
+    "images": [],
+    "name": "1996-06-29 Billboard 100",
+    "owner": {
+        "display_name": "Gabriel Bergoc",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/gabrielsbach"
+        },
+        "href": "https://api.spotify.com/v1/users/gabrielsbach",
+        "id": "gabrielsbach",
+        "type": "user",
+        "uri": "spotify:user:gabrielsbach"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MSxhZTYyYzcxMWZjNWM5NzM2YTc0OWE1OTZhZWMxNTM2NzI3OTFkOWVj",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6DD39Nged2wPnWjbM50Slf/tracks",
+        "items": [],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6DD39Nged2wPnWjbM50Slf"
+}

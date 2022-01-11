@@ -17,7 +17,7 @@ monday = 0
 thursday = 3
 today = dt.datetime.now().weekday()
 
-# ----------------- SEND EMAIL ------------------------ #
+# ----------------- SEND FROM ------------------------ #
 if today == thursday:
     with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
         connection.starttls()

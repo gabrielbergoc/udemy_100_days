@@ -1,0 +1,39 @@
+{
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5yh4XRmcjpY3Z3I9jJJhVz"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/5yh4XRmcjpY3Z3I9jJJhVz",
+    "id": "5yh4XRmcjpY3Z3I9jJJhVz",
+    "images": [],
+    "name": "1998-11-29 Billboard 100",
+    "owner": {
+        "display_name": "Gabriel Bergoc",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/gabrielsbach"
+        },
+        "href": "https://api.spotify.com/v1/users/gabrielsbach",
+        "id": "gabrielsbach",
+        "type": "user",
+        "uri": "spotify:user:gabrielsbach"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MSxlY2M1YjE4YzhlZTg4MTJkZDUzODZmNmI4MmI1NjBjZDYwZTQwNmMx",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5yh4XRmcjpY3Z3I9jJJhVz/tracks",
+        "items": [],
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5yh4XRmcjpY3Z3I9jJJhVz"
+}
